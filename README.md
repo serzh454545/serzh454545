@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @serzh454545
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: serzh454545@gmail.com
