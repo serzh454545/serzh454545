@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serzh454545
+- 👋 Hi, I’m Goryachev Seregey
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I'm a student of school 21 and a student of RTU MIREA
 - 📫 How to reach me: serzh454545@gmail.com
