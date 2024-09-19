@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Сергей Горячев
+- 👋 Hi, I’m Sergey Goryachev
 - 👀 I’m interested in programming
 - 🌱 I'm a student of school 21
 - 📫 How to reach me: serzh454545@gmail.com
